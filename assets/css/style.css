@@ -1,0 +1,45 @@
+body{
+  font-family:'Open Sans';
+    font-style:condensed;
+    background: #a6eea3;
+}
+
+td
+{
+text-align: center;
+}
+th
+{
+text-align: center;
+}
+
+tr {
+text-align: center;
+}
+
+.table thead th
+{
+text-align: center;
+}
+table {
+text-align: center;
+}
+
+#totcost
+{
+border-top: solid 2px;
+text-align: center;
+align-content: center;
+}
+
+#totalCost
+{
+font: monospace;
+font-size: 1.3em;
+}
+
+.table tbody tr td
+{
+padding-top: 1em;
+margin-top: 2em;
+}
